@@ -22,7 +22,7 @@ Sou estudante de Engenharia de Software e entusiasta em tecnologia. Gosto de des
 
 ## Contato
 
-- 📧 willyan@example.com  
+- 📧 willyan.barbosa@live.com
 - 🔗 [LinkedIn](https://linkedin.com/in/willyandamata)  
 - 🐦 [Twitter](https://twitter.com/willyandamata)  
 - 🌐 [Site pessoal](https://willyandamata.com)  
