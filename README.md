@@ -24,12 +24,9 @@ Sou estudante de Engenharia de Software e entusiasta em tecnologia. Gosto de des
 
 - 📧 willyan.barbosa@live.com
 - 🔗 [LinkedIn](https://linkedin.com/in/willyandamata)  
-- 🐦 [Twitter](https://twitter.com/willyandamata)  
-- 🌐 [Site pessoal](https://willyandamata.com)  
-
 ---
 
 **Vamos codar! 🚀**
-
+Sou Willyan Da Mata, estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento. Tenho interesse em criar soluções práticas com programação, automação e computação em nuvem. Busco sempre aprender e aplicar novas ferramentas para crescer profissionalmente e contribuir com projetos relevantes.
 
 <img src="https://raw.githubusercontent.com/WillyanMata/WillyanMata/output/snake.svg" alt="Snake animation" />
