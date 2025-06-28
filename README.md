@@ -1,13 +1,21 @@
 <h1 align="left">Ola Eu sou Willyan da Mata</h1>
 
-- 🎓 Graduando em Engenharia de Software
-- ☁️ Apaixonado por tecnologia, DevOps, Cloud e Inteligência Artificial
-- 🔧 Atualmente estudando Git, AWS, e práticas modernas de desenvolvimento
-- 🚀 Sempre criando projetos para aprimorar minhas habilidades
+Welcome to my Git
+* Software engineering student
+* Passionate about technology and development
 
-<br>
+<table>
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WillyanMata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillyanMata&layout=compact&langs_count=7&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias que domino
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
@@ -20,23 +28,19 @@
 </p>
 
 <br>
-
-## 📊 GitHub Stats
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula" alt="github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula" alt="top langs" />
-</div>
-
+  <div align="center">
+## Sobre mim
+<div align="center">
+ 
 <br>
 
-## 🌐 Contato
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-</p>
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/willyandamata" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
 <img src="https://raw.githubusercontent.com/WillyanMata/WillyanMata/output/snake.svg" alt="Snake animation" />
