@@ -4,6 +4,19 @@
 * Software engineering student
 * Passionate about technology and development
 
+# Olá, eu sou [Seu Nome]! 👋
+
+Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia.
+
+## 🛠 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&show_icons=true&locale=pt&layout=compact&theme=dracula)
+
+## 📌 Projetos em Destaque
+- [nome-do-repositorio](https://github.com/seu-usuario/nome-do-repositorio): Descrição breve.
+
+## 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+
 ## 📊 Status no GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillyanMata&show_icons=true&theme=radical)
 
