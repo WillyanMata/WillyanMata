@@ -1,40 +1,22 @@
-## 👋 Olá! Eu sou o Willyan Mata
+# Olá, eu sou Willyan Mata! 👋
 
-- 🎓 Estudante de Engenharia de Software
-- ☁️ Apaixonado por tecnologia, Cloud e DevOps
-- 🌱 Atualmente aprendendo AWS, IA/ML e Arquitetura de Soluções
-- 📹 Criador de conteúdo no canal [Code Willks](https://www.youtube.com/@CodeWillks)
+Estudante de Engenharia de Software com paixão por tecnologia, Cloud e DevOps. Atualmente focado em aprender AWS, IA/ML e Arquitetura de Soluções.
 
-<div align="center">
-  <a href="https://github.com/WillyanMata">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillyanMata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillyanMata&layout=compact&theme=dark"/>
-  </a>
-</div>
+## 🛠 Habilidades
+- **Linguagens**: Java, Python, JavaScript, HTML, CSS
+- **Interesses**: Cloud Computing, DevOps, Inteligência Artificial
+- **Ferramentas**: Git, AWS (em aprendizado)
 
-##
+## 📊 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillyanMata&show_icons=true&locale=pt&layout=compact&theme=dark)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+## 📌 Projetos
+- [my-portfolio](https://github.com/WillyanMata/my-portfolio): Portfólio pessoal para exibir meus projetos.
+- [outro-projeto](https://github.com/WillyanMata/outro-projeto): Em desenvolvimento.
 
-##
-
-<div>
-  <a href="https://www.youtube.com/@CodeWillks" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-<img height="180em" src="https://SEU-VERCEL-URL/api/top-langs/?username=WillyanMata&layout=donut&theme=dark"/>
-
-
+## 🌐 Conecte-se comigo
+- [YouTube](https://www.youtube.com/@CodeWillks)
+- [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)
 <br><br>
 ## 🌐 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)
