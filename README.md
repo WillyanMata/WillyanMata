@@ -17,6 +17,8 @@ Estudante de Engenharia de Software com paixão por tecnologia, Cloud e DevOps. 
 ## 🌐 Conecte-se comigo
 - [YouTube](https://www.youtube.com/@CodeWillks)
 - [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)
+
+- 
 <br><br>
 ## 🌐 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)
