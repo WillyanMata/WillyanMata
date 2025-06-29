@@ -19,8 +19,7 @@ Sou um desenvolvedor apaixonado por tecnologia, trabalhando com projetos web e a
 - **Frameworks**: [ex.: React, Django]
 - **Ferramentas**: [ex.: Git, Docker, VS Code]
 
-## 📊 Status no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=radical)
+
 
 ## 📌 Projetos em Destaque
 - [my-portfolio](https://github.com/MatheusParizoti/my-portfolio): Um portfólio pessoal para exibir meus projetos.
@@ -33,16 +32,8 @@ Sou um desenvolvedor apaixonado por tecnologia, trabalhando com projetos web e a
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WillyanMata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillyanMata&layout=compact&langs_count=7&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+## 📊 Status no GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=radical)
 
 ## 🛠️ Tecnologias que domino
 <p align="left">
