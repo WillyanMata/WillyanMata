@@ -5,7 +5,7 @@
 * Passionate about technology and development
 
 ## 📊 Status no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillyanMata&show_icons=true&theme=radical)
 
 ## 🛠️ Tecnologias que domino
 <p align="left">
