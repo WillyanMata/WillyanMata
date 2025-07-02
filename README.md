@@ -42,7 +42,7 @@ I strive to grow as a developer and contribute with ideas that go beyond concept
 
 ## 📬 Contato 
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willyan-mata/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willyandamata)
 
 
 • Email: [willyan.barbosa@live.com](mailto:willyan.barbosa@live.com)  
