@@ -1,9 +1,9 @@
 <div align="left">
   <h1>Olá! Eu sou o <span style="color:#4A90E2;">Willyan da Mata</span></h1>
-  <h3>Welcome to my GitHub</h3><br>
-  🎓 Software Engineering student<br>
-  ☁️ Passionate about Cloud Computing (AWS), DevOps, CI/CD and automation<br>
-  📚 Constantly learning and sharing knowledge through projects<br>
+  <h3 align="center">Engenheiro de Software | Desenvolvedor Backend .NET</h3><br>
+  👨‍💻 Engenheiro de Software com visão holística do ciclo de vida de aplicações.<br>
+  ☁️ Especialista em Backend (.NET 8/C#) com forte base em Infraestrutura, Cloud AWS e Segurança (Análise SOC).<br>
+  🚀 Constantemente aprendendo e construindo soluções escaláveis e resilientes.
 </div>
 <br>
 <div align="center"> 
@@ -13,15 +13,14 @@
 
 ## 🛠️ Tech & Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 
@@ -29,23 +28,21 @@
 
 ## 👨‍💻 Sobre
 
-Sou estudante de Engenharia de Software que transforma curiosidade em soluções reais, com foco em DevOps, Cloud Computing e desenvolvimento.
-Apaixonado por aprender, estou aprimorando meu inglês pela DIO English4Tech para conectar meus projetos ao mundo.
-Busco crescer como desenvolvedor e contribuir com ideias que saiam do papel e façam diferença.<br>
+Engenheiro de Software com sólida base em desenvolvimento Backend (.NET 8/C#) e ampla experiência crítica em Infraestrutura, DevOps e Segurança. Especialista na construção de Web APIs escaláveis e resilientes, atuando estrategicamente na automação de processos, governança de TI (ITIL/GLPI) e análise de dados operacionais via Power BI. Possuo certificações em Cibersegurança (Analista SOC, Linux) e foco em conformidade (LGPD).<br>
 
-I am a Software Engineering student who turns curiosity into real solutions, with a focus on DevOps, Cloud Computing, and development.
-Passionate about learning, I am improving my English through DIO English4Tech to connect my projects to the world.
-I strive to grow as a developer and contribute with ideas that go beyond concepts and make an impact.
+Software Engineer with a solid foundation in Backend development (.NET 8/C#) and critical experience in Infrastructure, DevOps, and Security. Specialized in building scalable and resilient Web APIs, with a strategic focus on process automation, IT governance, and operational data analysis via Power BI. Certified in Cybersecurity (SOC Analyst, Linux) with a strong commitment to compliance and continuous improvement for global remote opportunities.
 
 
 <img src="https://raw.githubusercontent.com/WillyanMata/WillyanMata/output/snake.svg" alt="Snake animation" />
 
 ## 📬 Contato 
-  
+
+[![Website](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://willyan-mata.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willyandamata)
 
 
 • Email: [willyan.barbosa@live.com](mailto:willyan.barbosa@live.com)  
+- **Localização:** São Paulo, SP (Disponível para trabalho remoto)
 • Sempre disposto a aprender, compartilhar e construir soluções em equipe
 
 <br>
