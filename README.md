@@ -38,4 +38,5 @@ Backend Developer with a rigorous operational background in **Infrastructure, De
 
 * **GitHub:** [github.com/WillyanMata](https://github.com/WillyanMata)
 * **LinkedIn:** [linkedin.com/in/willyandamata](https://www.linkedin.com/in/willyandamata)
+* **YouTube:** [Willyan da Mata](https://www.youtube.com/@WillyanDaMata)
 * **Email:** [willyan.barbosa@live.com](mailto:willyan.barbosa@live.com)
